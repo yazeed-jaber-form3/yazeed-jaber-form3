@@ -2,9 +2,9 @@
 ### Talent Partner - Engineering @ Form3<br>
 <sub>OPTIMIST :white_small_square: FOODIE :white_small_square: CAT PERSON :white_small_square: GYM DUDE :white_small_square: HODOPHILE</sub>
 >### About me:man:
-Im from the UK, based in the lovely city of Manchester.<br> I joined Form3 a year ago, on a mission to scale up our ***AWESOME*** engineering team as we look to grow internationally across Europe, Canada and Argentina. :earth_africa:
+Im from the UK, based in the lovely city of Manchester.<br> I joined Form3 just under a year ago, on a mission to scale up our ***AWESOME*** engineering team as we look to grow internationally across Europe and Canada :earth_africa:
 **Pronouns**: He/His<br>
-**Personality type:** [ESFP-T](https://www.16personalities.com/esfp-personality)<br>
+**Personality type:** INTP-T (https://www.16personalities.com/esfp-personality)<br>
 **Interests:** 🐱 🗺 🥾 🍕 💻 🏉 🎮 🏋🏼 🏝
 <div style="page-break-after: always;"></div>
 
