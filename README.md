@@ -8,7 +8,7 @@ Im from the UK, based in the lovely city of Manchester.<br> I joined Form3 just 
 **Interests:** 🐱 🗺 🥾 🍕 💻 🏉 🎮 🏋🏼 🏝
 <div style="page-break-after: always;"></div>
 
->### About Form3:unicorn_face:
+>### About Form3 🚀
 Cloud-native payments pioneers. We are building the technology that will power the future of payments.<br>
 <!-- Add anything to say to candidates below-->
 - [Our stack](https://stackshare.io/form3/main) Go, K8s, NATS, CockroachDB, Multi-cloud
